@@ -9,7 +9,7 @@ Single core 2 GHz
 2. Once it is open you should see a text box with a label above saying files to search to the right there is a search 
 button click this button and a dialog browser will open with you machines directories. Choose a directory that you wish 
 to scan (In this case it will only find a virus named "my pc backup" providing that it matches the same MD5's as the ones 
-i have provided)
+i have provided)the file location is C:\Program Files\MyPC Backup\
 
 3. Then once you have found the directory that you wish to scan click ok then you will see in the text box it will display
 the directory that you have selected and under this box you should see a MD5 scan and click this button and this is when 
